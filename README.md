@@ -1,4 +1,4 @@
-
+[![Test Multiple Python Versions](https://github.com/yash-jain-1/pred-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/yash-jain-1/pred-pro/actions/workflows/ci.yml)
 
 # pred-pro
 
